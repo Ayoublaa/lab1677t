@@ -11,7 +11,8 @@ Cours : Programmation Mobile : Android avec Java
 
 Étapes
 
-1
+1<img width="393" height="870" alt="image" src="https://github.com/user-attachments/assets/d522dd6d-c602-4208-a8d2-956f5721ddf1" />
+
 But du lab
 
 2
